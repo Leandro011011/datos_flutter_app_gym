@@ -1,54 +1,6 @@
 {
-  "rutinas": [
-    {
-      "dia": "Primer día",
-      "tipo": "Tren superior",
-      "ejercicios": [
-        { "nombre": "Vuelos laterales", "repeticiones": "6-8" },
-        { "nombre": "Press en banca inclinada con mancuernas", "repeticiones": "5-7" },
-        { "nombre": "Press militar (hombro delantero y lateral)", "repeticiones": "5-8" },
-        { "nombre": "Press de pecho plano", "repeticiones": "5-10" },
-        { "nombre": "Aperturas para pecho", "repeticiones": "5-8" },
-        { "nombre": "Remo en máquina (agarre lateral)", "repeticiones": "8-10" },
-        { "nombre": "Extensión de tríceps en máquina", "repeticiones": "8-10" },
-        { "nombre": "Bíceps con barra", "repeticiones": "8-10" }
-      ]
-    },
-    {
-      "dia": "Segundo día",
-      "tipo": "Piernas",
-      "ejercicios": [
-        { "nombre": "Gemelos en máquina", "repeticiones": "8-10" },
-        { "nombre": "Sentadilla en Smith", "repeticiones": "5-7" },
-        { "nombre": "Isquiotibiales en máquina", "repeticiones": "5-10" },
-        { "nombre": "Abductores en máquina", "repeticiones": "5-10" },
-        { "nombre": "Extensión de cuádriceps", "repeticiones": "6-10" }
-      ]
-    },
-    {
-      "dia": "Tercer día",
-      "tipo": "Tren superior",
-      "ejercicios": [
-        { "nombre": "Vuelos laterales", "repeticiones": "6-8" },
-        { "nombre": "Press en banca inclinada con mancuernas", "repeticiones": "5-7" },
-        { "nombre": "Press militar (hombro delantero y lateral)", "repeticiones": "5-8" },
-        { "nombre": "Press de pecho plano", "repeticiones": "5-10" },
-        { "nombre": "Aperturas para pecho", "repeticiones": "5-8" },
-        { "nombre": "Remo en máquina (agarre lateral)", "repeticiones": "8-10" },
-        { "nombre": "Extensión de tríceps en polea", "repeticiones": "8-10" },
-        { "nombre": "Bíceps con mancuernas", "repeticiones": "8-10" }
-      ]
-    },
-    {
-      "dia": "Cuarto día",
-      "tipo": "Piernas",
-      "ejercicios": [
-        { "nombre": "Gemelos en máquina", "repeticiones": "8-10" },
-        { "nombre": "Sentadilla en Smith", "repeticiones": "5-7" },
-        { "nombre": "Isquiotibiales en máquina", "repeticiones": "5-10" },
-        { "nombre": "Abductores en máquina al revés", "repeticiones": "5-10" },
-        { "nombre": "Extensión de cuádriceps", "repeticiones": "6-10" }
-      ]
-    }
-  ]
+  "dia": "Primer día",
+  "tipo": "Tren superior",
+  "image": "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2c3eGo5c3pwdWVpeDdwaG9reW8zb2Fxb2JkeDNrYWttbzY4cGJzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/28lD3EFJO7bO24LKS3/giphy.gif"
 }
+
